@@ -15,3 +15,35 @@ This was my first time using an LCD screen, and with a little help pretty quickl
 ### What I Learned
 ### Wiring
 ### Code
+## Photointerrupters
+### Description
+### What I Learned
+### Wiring
+### Code
+## Potentiometers
+### Description
+### What I Learned
+### Wiring
+### Code
+## Motor Control
+### Description
+### What I Learned
+### Wiring
+### Code
+# Solidworks
+## A little practice
+### Description
+### What I Learned
+### Image
+## Sweeps and lofts
+### Description
+### What I Learned
+### Image
+## Design Tables
+### Description
+### What I Learned
+### Image
+## Advanced Mechanical Mates
+### Description
+### What I Learned
+### Image

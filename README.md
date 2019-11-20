@@ -9,7 +9,7 @@ Use sublime to make an LED blink, and then fade
 * How to better use loops and variables 
 * Refresher on Arduino
 ### Wiring
-### [Code]
+### [Code](IntermediateArduino/Led_Blink_Revisited)
 ## Hello LCD
 ### Desciption
 This was my first time using an LCD screen, and with a little help pretty quickly I got my screen to display "Hello World."

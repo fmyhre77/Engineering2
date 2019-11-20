@@ -50,7 +50,7 @@ Use a battery pack and code to control a motor
 * How to wire the battery box 
 * How to use a motor
 ### Wiring
-### [Code] (IntermediateArduino/Motor control/Motor control.ino)
+### [Code](IntermediateArduino/Motor control/Motor control.ino)
 # Solidworks
 ## A little practice
 ### Description

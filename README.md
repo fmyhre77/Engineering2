@@ -6,42 +6,49 @@ Arduino Projects covering LCD screens, potentiometers, LCD Backpacks, photointer
 ### Description
 Use sublime to make an LED blink, and then fade
 ### What I Learned
-*How to better use loops and variables *Refresher on Arduino
+* How to better use loops and variables 
+* Refresher on Arduino
 ### Wiring
 ### Code
 ## Hello LCD
 ### Desciption
 This was my first time using an LCD screen, and with a little help pretty quickly I got my screen to display "Hello World."
 ### What I Learned
-*How to use sublime *Almost all code you need can be found online
+* How to use sublime 
+* Almost all code you need can be found online
 ### Wiring
 ### Code
 ## LCD Backpack
 ### Description
 Using an LCD Backpask with an LCD screen for the first time, displaying "Hello World"
 ### What I Learned
-*Backpacks make LCD Easier *How to use a new tool with an LCD screen
+* Backpacks make LCD Easier 
+* How to use a new tool with an LCD screen
 ### Wiring
 ### Code
 ## Photointerrupters
 ### Description
 Using and soldering a T-Slot photointerrupter to detect if anything is in the slot
 ### What I Learned
-*Do not let the pins touch when soldering *Be careful with the angle you solder at *This would be a helpful project when operating the wheel in a PID box
+* Do not let the pins touch when soldering 
+* Be careful with the angle you solder at 
+* This would be a helpful project when operating the wheel in a PID box
 ### Wiring
 ### Code
 ## Potentiometers
 ### Description
 Use a potentiometer to change LED brightness and
 ### What I Learned
-*How to use an LED with an LCD screen and potentiometer *All code you need is online
+* How to use an LED with an LCD screen and potentiometer 
+* All code you need is online
 ### Wiring
 ### Code
 ## Motor Control
 ### Description
 Use a battery pack and code to control a motor
 ### What I Learned
-*How to wire the battery box *How to use a motor
+* How to wire the battery box 
+* How to use a motor
 ### Wiring
 ### Code
 # Solidworks
@@ -49,23 +56,27 @@ Use a battery pack and code to control a motor
 ### Description
 A quick refresher on parts and assemblies
 ### What I Learned
-*How to pattern an extrusion *Be careful about what you patter around
+* How to pattern an extrusion 
+* Be careful about what you patter around
 ### Image
 ## Sweeps and lofts
 ### Description
 Using sweeps and lofts to make a hammer and a candlestick
 ### What I Learned
-*How to use sweeps *How to use lofts
+* How to use sweeps 
+* How to use lofts
 ### Image
 ## Design Tables
 ### Description
 Use a design table to make different sized spools
 ### What I Learned
-*How to use a design table *How to use temporary axis
+* How to use a design table 
+* How to use temporary axis
 ### Image
 ## Advanced Mechanical Mates
 ### Description
 Making 3 configurations and locking them together with mechanical mates
 ### What I Learned
-*How to use a slot mate *How to configure color
+* How to use a slot mate 
+* How to configure color
 ### Image

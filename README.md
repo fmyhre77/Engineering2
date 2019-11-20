@@ -47,19 +47,25 @@ Use a battery pack and code to control a motor
 # Solidworks
 ## A little practice
 ### Description
-
+A quick refresher on parts and assemblies
 ### What I Learned
-
+*How to pattern an extrusion *Be careful about what you patter around
 ### Image
 ## Sweeps and lofts
 ### Description
+Using sweeps and lofts to make a hammer and a candlestick
 ### What I Learned
+*How to use sweeps *How to use lofts
 ### Image
 ## Design Tables
 ### Description
+Use a design table to make different sized spools
 ### What I Learned
+*How to use a design table *How to use temporary axis
 ### Image
 ## Advanced Mechanical Mates
 ### Description
+Making 3 configurations and locking them together with mechanical mates
 ### What I Learned
+*How to use a slot mate *How to configure color
 ### Image

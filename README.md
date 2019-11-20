@@ -17,7 +17,7 @@ This was my first time using an LCD screen, and with a little help pretty quickl
 * How to use sublime 
 * Almost all code you need can be found online
 ### Wiring
-### [Code] (IntermediateArduino/Hello lcd/Hello LCD.ino.ino)
+### [Code](IntermediateArduino/Hello lcd/Hello LCD.ino.ino)
 ## LCD Backpack
 ### Description
 Using an LCD Backpask with an LCD screen for the first time, displaying "Hello World"

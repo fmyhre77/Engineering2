@@ -9,7 +9,7 @@ Use sublime to make an LED blink, and then fade
 * How to better use loops and variables 
 * Refresher on Arduino
 ### Wiring
-### Code
+### [Code]
 ## Hello LCD
 ### Desciption
 This was my first time using an LCD screen, and with a little help pretty quickly I got my screen to display "Hello World."
@@ -17,7 +17,7 @@ This was my first time using an LCD screen, and with a little help pretty quickl
 * How to use sublime 
 * Almost all code you need can be found online
 ### Wiring
-### Code
+### [Code] (IntermediateArduino/Hello lcd/Hello LCD.ino.ino)
 ## LCD Backpack
 ### Description
 Using an LCD Backpask with an LCD screen for the first time, displaying "Hello World"
@@ -25,7 +25,7 @@ Using an LCD Backpask with an LCD screen for the first time, displaying "Hello W
 * Backpacks make LCD Easier 
 * How to use a new tool with an LCD screen
 ### Wiring
-### Code
+### [Code] (IntermediateArduino/lcd backpack/LCD Backpack.ino.ino)
 ## Photointerrupters
 ### Description
 Using and soldering a T-Slot photointerrupter to detect if anything is in the slot
@@ -34,7 +34,7 @@ Using and soldering a T-Slot photointerrupter to detect if anything is in the sl
 * Be careful with the angle you solder at 
 * This would be a helpful project when operating the wheel in a PID box
 ### Wiring
-### Code
+### [Code] (IntermediateArduino/Photointerrupter/photointerrupters.ino)
 ## Potentiometers
 ### Description
 Use a potentiometer to change LED brightness and
@@ -42,7 +42,7 @@ Use a potentiometer to change LED brightness and
 * How to use an LED with an LCD screen and potentiometer 
 * All code you need is online
 ### Wiring
-### Code
+### [Code] (IntermediateArduino/LCD Potentiometer/LCD Potentiometer.ino)
 ## Motor Control
 ### Description
 Use a battery pack and code to control a motor
@@ -50,7 +50,7 @@ Use a battery pack and code to control a motor
 * How to wire the battery box 
 * How to use a motor
 ### Wiring
-### Code
+### [Code] (IntermediateArduino/Motor control/Motor control.ino)
 # Solidworks
 ## A little practice
 ### Description

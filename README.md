@@ -25,7 +25,7 @@ Using an LCD Backpask with an LCD screen for the first time, displaying "Hello W
 * Backpacks make LCD Easier 
 * How to use a new tool with an LCD screen
 ### Wiring
-### [Code] (IntermediateArduino/lcd backpack/LCD Backpack.ino.ino)
+### [Code](IntermediateArduino/lcd backpack/LCD Backpack.ino.ino)
 ## Photointerrupters
 ### Description
 Using and soldering a T-Slot photointerrupter to detect if anything is in the slot
@@ -34,7 +34,7 @@ Using and soldering a T-Slot photointerrupter to detect if anything is in the sl
 * Be careful with the angle you solder at 
 * This would be a helpful project when operating the wheel in a PID box
 ### Wiring
-### [Code] (IntermediateArduino/Photointerrupter/photointerrupters.ino)
+### [Code](IntermediateArduino/Photointerrupter/photointerrupters.ino)
 ## Potentiometers
 ### Description
 Use a potentiometer to change LED brightness and
@@ -42,7 +42,7 @@ Use a potentiometer to change LED brightness and
 * How to use an LED with an LCD screen and potentiometer 
 * All code you need is online
 ### Wiring
-### [Code] (IntermediateArduino/LCD Potentiometer/LCD Potentiometer.ino)
+### [Code](IntermediateArduino/LCD Potentiometer/LCD Potentiometer.ino)
 ## Motor Control
 ### Description
 Use a battery pack and code to control a motor

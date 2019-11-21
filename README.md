@@ -80,4 +80,4 @@ Making 3 configurations and locking them together with mechanical mates
 ### What I Learned
 * How to use a slot mate 
 * How to configure color
-### Image
+### ![Image](Media/Advanced_MM.JPG)

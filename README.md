@@ -58,8 +58,8 @@ A quick refresher on parts and assemblies
 ### What I Learned
 * How to pattern an extrusion 
 * Be careful about what you patter around
-### Image
-
+### [Image 1](Media/MyPressureplate.JPG)
+### [Image 2](Media/Tutor_Assem.JPG)
 ## Sweeps and lofts
 ### Description
 Using sweeps and lofts to make a hammer and a candlestick

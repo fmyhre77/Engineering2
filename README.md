@@ -59,6 +59,7 @@ A quick refresher on parts and assemblies
 * How to pattern an extrusion 
 * Be careful about what you patter around
 ### Image
+
 ## Sweeps and lofts
 ### Description
 Using sweeps and lofts to make a hammer and a candlestick

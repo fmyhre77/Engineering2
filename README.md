@@ -17,7 +17,7 @@ This was my first time using an LCD screen, and with a little help pretty quickl
 * How to use sublime 
 * Almost all code you need can be found online
 ### Wiring
-### [Code](IntermediateArduino/Hello lcd/Hello LCD.ino.ino)
+### [Code](IntermediateArduino/Hellolcd/HelloLCD.ino/HelloLCD.ino.ino)
 ## LCD Backpack
 ### Description
 Using an LCD Backpask with an LCD screen for the first time, displaying "Hello World"
@@ -25,7 +25,7 @@ Using an LCD Backpask with an LCD screen for the first time, displaying "Hello W
 * Backpacks make LCD Easier 
 * How to use a new tool with an LCD screen
 ### Wiring
-### [Code](IntermediateArduino/lcd backpack/LCD Backpack.ino.ino)
+### [Code](IntermediateArduino/lcd_backpack/LCD_Backpack.ino/LCDBackpack.ino/LCDBackpack.ino.ino)
 ## Photointerrupters
 ### Description
 Using and soldering a T-Slot photointerrupter to detect if anything is in the slot
@@ -42,7 +42,7 @@ Use a potentiometer to change LED brightness and
 * How to use an LED with an LCD screen and potentiometer 
 * All code you need is online
 ### Wiring
-### [Code](IntermediateArduino/LCD Potentiometer/LCD Potentiometer.ino)
+### [Code](IntermediateArduino/LCD_Potentiometer/LCD_Potentiometer.ino)
 ## Motor Control
 ### Description
 Use a battery pack and code to control a motor
@@ -50,7 +50,7 @@ Use a battery pack and code to control a motor
 * How to wire the battery box 
 * How to use a motor
 ### Wiring
-### [Code](IntermediateArduino/Motor control/Motor control.ino)
+### [Code](IntermediateArduino/Motor_control/Motor_control.ino)
 # Solidworks
 ## A little practice
 ### Description

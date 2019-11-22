@@ -66,15 +66,15 @@ Using sweeps and lofts to make a hammer and a candlestick
 ### What I Learned
 * How to use sweeps 
 * How to use lofts
-### [Image1] !(Media/hammer.JPG)
-### [Image2] !(Media/Cstick.JPG)
+### ![Image1](Media/hammer.JPG)
+### ![Image2](Media/Cstick.JPG)
 ## Design Tables
 ### Description
 Use a design table to make different sized spools
 ### What I Learned
 * How to use a design table 
 * How to use temporary axis
-### [Image] !(Media/spool.JPG)
+###0 ![Image](Media/spool.JPG)
 ## Advanced Mechanical Mates
 ### Description
 Making 3 configurations and locking them together with mechanical mates

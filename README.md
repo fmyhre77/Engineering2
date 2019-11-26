@@ -16,7 +16,8 @@ This was my first time using an LCD screen, and with a little help pretty quickl
 ### What I Learned
 * How to use sublime 
 * Almost all code you need can be found online
-### Wiring
+### ![Wiring](Media/Fritzing/Hello_LCD.jpg)
+### Credit: Abigail Paquette
 ### [Code](IntermediateArduino/Hellolcd/HelloLCD.ino/HelloLCD.ino.ino)
 ## LCD Backpack
 ### Description
@@ -24,7 +25,8 @@ Using an LCD Backpask with an LCD screen for the first time, displaying "Hello W
 ### What I Learned
 * Backpacks make LCD Easier 
 * How to use a new tool with an LCD screen
-### Wiring
+### ![Wiring](Media/Fritzing/LCD_Backpack.jpg)
+### Credit: Abigail Paquette
 ### [Code](IntermediateArduino/lcd_backpack/LCD_Backpack.ino/LCDBackpack.ino/LCDBackpack.ino.ino)
 ## Photointerrupters
 ### Description
@@ -33,7 +35,8 @@ Using and soldering a T-Slot photointerrupter to detect if anything is in the sl
 * Do not let the pins touch when soldering 
 * Be careful with the angle you solder at 
 * This would be a helpful project when operating the wheel in a PID box
-### Wiring
+### ![Wiring](Media/Fritzing/Photointerrupter.png)
+Credit: Abigail Paquette
 ### [Code](IntermediateArduino/Photointerrupter/photointerrupters.ino)
 ## Potentiometers
 ### Description
@@ -41,7 +44,8 @@ Use a potentiometer to change LED brightness and
 ### What I Learned
 * How to use an LED with an LCD screen and potentiometer 
 * All code you need is online
-### Wiring
+### ![Wiring](Media/Fritzing/Potentiometer.jpg)
+Credit: Abigail Paquette
 ### [Code](IntermediateArduino/LCD_Potentiometer/LCD_Potentiometer.ino)
 ## Motor Control
 ### Description
@@ -49,7 +53,8 @@ Use a battery pack and code to control a motor
 ### What I Learned
 * How to wire the battery box 
 * How to use a motor
-### Wiring
+### ![Wiring](Media/Fritzing/Motor_Control.png)
+Credit: Abigail Paquette
 ### [Code](IntermediateArduino/Motor_control/Motor_control.ino)
 # Solidworks
 ## A little practice

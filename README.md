@@ -8,7 +8,7 @@ Use sublime to make an LED blink, and then fade
 ### What I Learned
 * How to better use loops and variables 
 * Refresher on Arduino
-### Wiring
+### ![Wiring](Media/Fritzing/Led_Blink_Revisited.png)
 ### [Code](IntermediateArduino/Led_Blink_Revisited)
 ## Hello LCD
 ### Desciption

@@ -63,15 +63,15 @@ A quick refresher on parts and assemblies
 ### What I Learned
 * How to pattern an extrusion 
 * Be careful about what you patter around
-### ![Image 1](Media/MyPressureplate.JPG)
-### ![Image 2](Media/Tutor_Assem.JPG)
+### ![Image 1](Media/CAD/MyPressureplate.JPG)
+### ![Image 2](Media/CAD/or_Assem.JPG)
 ## Sweeps and lofts
 ### Description
 Using sweeps and lofts to make a hammer and a candlestick
 ### What I Learned
 * How to use sweeps 
 * How to use lofts
-### ![Image1](Media/hammer.JPG)
+### ![Image1](Media/CAD/hammer.JPG)
 ### ![Image2](Media/Cstick.JPG)
 ## Design Tables
 ### Description
@@ -86,4 +86,4 @@ Making 3 configurations and locking them together with mechanical mates
 ### What I Learned
 * How to use a slot mate 
 * How to configure color
-### ![Image](Media/Advanced_MM.JPG)
+### ![Image](Media/CAD/Advanced_MM.JPG)

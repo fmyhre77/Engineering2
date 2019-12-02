@@ -64,7 +64,7 @@ A quick refresher on parts and assemblies
 * How to pattern an extrusion 
 * Be careful about what you patter around
 ### ![Image 1](Media/CAD/MyPressureplate.JPG)
-### ![Image 2](Media/CAD/or_Assem.JPG)
+### ![Image 2](Media/CAD/Tutor_Assem.JPG)
 ## Sweeps and lofts
 ### Description
 Using sweeps and lofts to make a hammer and a candlestick
@@ -72,14 +72,14 @@ Using sweeps and lofts to make a hammer and a candlestick
 * How to use sweeps 
 * How to use lofts
 ### ![Image1](Media/CAD/hammer.JPG)
-### ![Image2](Media/Cstick.JPG)
+### ![Image2](Media/CAD/Cstick.JPG)
 ## Design Tables
 ### Description
 Use a design table to make different sized spools
 ### What I Learned
 * How to use a design table 
 * How to use temporary axis
-###0 ![Image](Media/spool.JPG)
+### ![Image](Media/CAD/spool.JPG)
 ## Advanced Mechanical Mates
 ### Description
 Making 3 configurations and locking them together with mechanical mates

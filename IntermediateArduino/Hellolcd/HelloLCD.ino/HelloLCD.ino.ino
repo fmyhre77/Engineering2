@@ -1,19 +1,16 @@
-int led = 3;
-int brightness = 0;
-int fadeValue = 5;
+//Hello LCD
+//Frank Myhre
+//brief description and links to relevant guides or your github repo.
+#include <LiquidCrystal.h> //LCD library
+ 
+LiquidCrystal lcd(7, 8, 9, 10, 11, 12); //The pins I used
+ 
 void setup() {
-  // put your setup code here, to run once:
-  pinMode(led, OUTPUT);
-  Serial.begin(9600);
+  lcd.begin(16, 2); //The screen is 16x2
+  lcd.print("Hello World."); //Message
 }
-
+ 
 void loop() {
-  // put your main code here, to run repeatedly:
-  analogWrite(3, brightness);
-  delay(50);               // wait for a second
-  brightness = brightness + fadeValue;
-  if (brightness >= 150 || brightness <=0){
-  	  fadeValue = -fadeValue;
-  }
-Serial.println(brightness);
+  lcd.setCursor(0, 1); //Putting the cursor in the first space
+  lcd.print(millis() / 1000); // # of secs (1)
 }

@@ -1,6 +1,9 @@
+//LED blink revisited
+//Frank Myhre
+//Make an LED light fade in and out while serial printing brightness 
 int led = 3;
-int brightness = 0;
-int fadeValue = 5;
+int brightness = 0; //Starting brightness
+int fadeValue = 5; //how much it changes by
 void setup() {
   // put your setup code here, to run once:
   pinMode(led, OUTPUT);
@@ -8,12 +11,11 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   analogWrite(3, brightness);
-  delay(50);               // wait for a second
+  delay(50);      // wait for a 1/20th second for fade effect
   brightness = brightness + fadeValue;
   if (brightness >= 150 || brightness <=0){
   	  fadeValue = -fadeValue;
-  }
-Serial.println(brightness);
+  } //keeps brightness value in LED brightness range
+Serial.println(brightness); //prints brightness
 }

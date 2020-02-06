@@ -19,8 +19,8 @@ This was my first time using an LCD screen, and with a little help pretty quickl
 * How to use sublime 
 * Where I can select the port and board
 * http://wiki.chssigma.com/index.php?title=Engineering_2_Student_Pages is helpful to find code you need
-### ![Wiring](Media/Fritzing/Hello_LCD.jpg)
-### Credit: Abigail Paquette
+### ![Wiring](http://wiki.chssigma.com/images/6/6e/Paxtons_fritzer_for_lcd_hello_bb.png)
+### Credit: [Lily Wielar](http://wiki.chssigma.com/index.php?title=Lily_engineering_notebook)
 ### [Code](IntermediateArduino/Hellolcd/HelloLCD.ino/HelloLCD.ino.ino)
 ## LCD Backpack
 ### Description

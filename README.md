@@ -42,7 +42,7 @@ Using and soldering a T-Slot photointerrupter to detect if anything is in the sl
 * This would be a helpful project when operating the wheel in a PID box
 * Helpful link :https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
 ### ![Wiring](Media/Fritzing/Photointerrupter.png)
-Credit: Abigail Paquette
+Credit: [Abigail Paquette](http://wiki.chssigma.com/index.php?title=Abby%27s_Engineering_Notebook)
 ### [Code](IntermediateArduino/Photointerrupter/photointerrupters.ino)
 ## Potentiometers
 ### Description

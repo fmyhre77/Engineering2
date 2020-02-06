@@ -31,7 +31,7 @@ Using an LCD Backpask with an LCD screen for the first time, displaying "Hello W
 * How to use a new tool with an LCD screen
 * I ran into the problem of my button adding 2 instead of 1, but I replaced it and it fixed the problem
 ### ![Wiring](Media/Fritzing/LCD_Backpack.jpg)
-### Credit: Abigail Paquette
+### Credit: [Abigail Paquette](http://wiki.chssigma.com/index.php?title=Abby%27s_Engineering_Notebook)
 ### [Code](IntermediateArduino/lcd_backpack/LCD_Backpack.ino/LCDBackpack.ino/LCDBackpack.ino.ino)
 ## Photointerrupters
 ### Description
@@ -52,7 +52,7 @@ Use a potentiometer to change LED brightness and display it on an LCD screen. I 
 * All code you need is online
 * Analogwrite commands were helpful in this assignment
 ### ![Wiring](Media/Fritzing/Potentiometer.jpg)
-Credit: Abigail Paquette
+Credit: [Abigail Paquette](http://wiki.chssigma.com/index.php?title=Abby%27s_Engineering_Notebook)
 ### [Code](IntermediateArduino/LCD_Potentiometer/LCD_Potentiometer.ino)
 ## Motor Control
 ### Description
@@ -63,7 +63,7 @@ Use a battery pack and code to control a motor. This became important during my 
 * How to use a motor
 * I had a problem getting the code to upload, so I examined my wiring and saw a short and fixed it
 ### ![Wiring](Media/Fritzing/Motor_Control.png)
-Credit: Abigail Paquette
+Credit: [Abigail Paquette](http://wiki.chssigma.com/index.php?title=Abby%27s_Engineering_Notebook)
 ### [Code](IntermediateArduino/Motor_control/Motor_control.ino)
 # Solidworks
 ## A little practice

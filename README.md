@@ -8,6 +8,8 @@ Use sublime to make an LED blink, and then fade. I used a delay and variable to 
 ### What I Learned
 * How to better use loops and variables 
 * Refresher on Arduino
+* The lower the number you add the better the dim will look
+* A combo of adding a low number to brightness and a short delay makes a nice dimming effect
 ### ![Wiring](Media/Fritzing/Led_Blink_Revisited.png)
 ### [Code](IntermediateArduino/Led_Blink_Revisited)
 ## Hello LCD
@@ -70,6 +72,7 @@ A quick refresher on parts and assemblies. I used mates, fillets, patterns, cuts
 ### What I Learned
 * How to pattern an extrusion 
 * Do not pattern around a face, because if you mirror the pattern it will be messed up on the mirror
+* A quick refresher on assemblies and mates
 ### ![Image 1](Media/CAD/MyPressureplate.JPG)
 ### ![Image 2](Media/CAD/Tutor_Assem.JPG)
 ## Sweeps and lofts
